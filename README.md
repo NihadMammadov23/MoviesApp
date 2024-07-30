@@ -6,7 +6,7 @@ This is a simple movies app created using React.js. The project serves as a prac
 ✅ **Responsive Design**: The app is fully responsive and works on both desktop and mobile devices.<br />
 ✅ **Movie Search**: Search for your favorite movies and get detailed information.<br />
 ✅ **Movie Listings**: Browse popular, top-rated, and upcoming movies.<br />
-✅ **Movie Details**: View detailed information about each movie, including release date, rating, and synopsis.<br /><br />
+✅ **Movie Details**: View detailed information about each movie, including release date and rating.<br /><br />
 
 🌐 **How to Use with VScode** :<br />
 1. **Clone the repository**: <br /><br />
